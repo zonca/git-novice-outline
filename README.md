@@ -6,16 +6,16 @@
 
 ## Introduction ##
 
--   Show the PhDComics slide
--   Talk about a time when git saved my ass
+-   Show the slides
 
 ## Setting up Git ##
 
--   `git config --global user.name "Vlad Dracula"`
--   `git config --global user.email "vlad@tran.sylvan.ia"`
--   `git config --global color.ui "auto"`
--   `git config --global core.editor "nano -w"`
-
+```
+$ git config --global user.name "Your Name"
+$ git config --global user.email "your@email.com"
+$ git config --global color.ui "auto"
+$ git config --global core.editor "nano -w"
+```
 -   Talk about how git is run with subcommands `git <verb>`
 
 ## Creating a repository ##
@@ -78,9 +78,6 @@
 
 -   Socrative Question #4
 -   Socrative Question #5
-
--   (TODO: Check if socrative works well on my phone.)
-
 
 ## `.gitignore` ##
 
